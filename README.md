@@ -2,7 +2,7 @@
 
 *a.k.a.* **Telfair** — high-school student in **Beijing, China**, building things that move and things that learn.
 
-I write competition code for a **VEX V5 robotics team**, and in my own time I train robot arms with **imitation learning**. What pulls me in is the space where mechanical, electrical, and software engineering meet — both of my projects live exactly there.
+I'm the **programmer & driver — and team captain — of VEX team 8632X** (formerly 86X & 86Y), and in my own time I train robot arms with **imitation learning**. What pulls me in is the space where mechanical, electrical, and software engineering meet — both of my projects live exactly there.
 
 ---
 
@@ -16,7 +16,7 @@ End-to-end imitation learning on the **SO-ARM101** robot arm: teleoperated data 
 
 ### [RCFOverride2027 — VEX V5 competition robot code](https://github.com/Telfair8632/RCFOverride2027)
 
-C++ code for our team's robot in the 2026–27 **RCF Override** season, built on the PROS kernel: a shared PID controller, tank-drive chassis, gear-position lift, pneumatics, and **9 competition autonomous routines** selectable from the driver controller at the field.
+C++ code for **team 8632X's** robot in the 2026–27 **RCF Override** season, built on the PROS kernel: a shared PID controller, tank-drive chassis, gear-position lift, pneumatics, and **9 competition autonomous routines** selectable from the driver controller at the field.
 
 `C++` · `PROS` · `PID Control` · `Embedded Systems`
 
@@ -35,7 +35,7 @@ C++ code for our team's robot in the 2026–27 **RCF Override** season, built on
 
 ## 📍 Currently
 
-- 🔴 Competing in the **2026–27 VEX season** (RCF Override)
+- 🔴 Competing in the **2026–27 VEX season** (RCF Override) as **captain of 8632X**
 - 🧪 Designing controlled experiments for **V2** of the imitation-learning pipeline
 - 🎓 Applying to undergraduate programs in **Robotics, Mechanical & Electrical Engineering, and CS**
 
