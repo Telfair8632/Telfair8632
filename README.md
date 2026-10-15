@@ -22,7 +22,7 @@ A fully independent aircraft engineering project: parametric FreeCAD CAD, 1:1 ma
 
 ### [RCFOverride2027 — VEX V5 competition robot code](https://github.com/Telfair8632/RCFOverride2027)
 
-C++ code for **team 8632X's** robot in the 2026–27 **RCF Override** season, built on the PROS kernel: a shared PID controller, tank-drive chassis, gear-position lift, pneumatics, and **9 competition autonomous routines** selectable from the driver controller at the field.
+C++ code for **team 8632X's** robot in the 2026–27 **RCF Override** season, built on the PROS kernel: a shared PID controller, tank-drive chassis, gear-position lift, pneumatics, and **9 competition autonomous routines** selectable from the driver controller at the field. Past-season archive: [Vex-Pushback-86X](https://github.com/Telfair8632/Vex-Pushback-86X) — my team 86X robot from the Pushback season (X-drive, LemLib odometry), sharing the same `haws` motor-control framework.
 
 `C++` · `PROS` · `PID Control` · `Embedded Systems`
 
